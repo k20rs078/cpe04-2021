@@ -10,6 +10,7 @@
     #btnA{
       background: yellow;
       color: green;
+      font-weight: bold;
     }
 
     #minuteStr {
