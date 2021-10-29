@@ -1,9 +1,12 @@
 /**/
-    body{
-      background:skyblue;
-    }
+    .gradient { 
+	background:linear-gradient(#56C500, #fff); 
+	height: 500px;
+	border: 1px solid #333;
+}
+
     button{
-      color: blue;
+     color: blue;
       font-family: Times;
       border-radius: 20px;
     }
